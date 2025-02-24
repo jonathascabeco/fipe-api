@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CarFipe.WebAPI.props" />
+</Project>

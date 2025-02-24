@@ -1,0 +1,6 @@
+@CarFipe.WebAPI_HostAddress = http://localhost:5254
+
+GET {{CarFipe.WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

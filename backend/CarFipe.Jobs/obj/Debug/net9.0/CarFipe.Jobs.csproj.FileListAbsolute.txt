@@ -1,0 +1,17 @@
+C:\projects\backend\CarFipe.Jobs\bin\Debug\net9.0\CarFipe.Jobs.deps.json
+C:\projects\backend\CarFipe.Jobs\bin\Debug\net9.0\CarFipe.Jobs.dll
+C:\projects\backend\CarFipe.Jobs\bin\Debug\net9.0\CarFipe.Jobs.pdb
+C:\projects\backend\CarFipe.Jobs\bin\Debug\net9.0\CarFipe.Application.dll
+C:\projects\backend\CarFipe.Jobs\bin\Debug\net9.0\CarFipe.Domain.dll
+C:\projects\backend\CarFipe.Jobs\bin\Debug\net9.0\CarFipe.Application.pdb
+C:\projects\backend\CarFipe.Jobs\bin\Debug\net9.0\CarFipe.Domain.pdb
+C:\projects\backend\CarFipe.Jobs\obj\Debug\net9.0\CarFipe.Jobs.csproj.AssemblyReference.cache
+C:\projects\backend\CarFipe.Jobs\obj\Debug\net9.0\CarFipe.Jobs.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\backend\CarFipe.Jobs\obj\Debug\net9.0\CarFipe.Jobs.AssemblyInfoInputs.cache
+C:\projects\backend\CarFipe.Jobs\obj\Debug\net9.0\CarFipe.Jobs.AssemblyInfo.cs
+C:\projects\backend\CarFipe.Jobs\obj\Debug\net9.0\CarFipe.Jobs.csproj.CoreCompileInputs.cache
+C:\projects\backend\CarFipe.Jobs\obj\Debug\net9.0\CarFipe..DE04EC75.Up2Date
+C:\projects\backend\CarFipe.Jobs\obj\Debug\net9.0\CarFipe.Jobs.dll
+C:\projects\backend\CarFipe.Jobs\obj\Debug\net9.0\refint\CarFipe.Jobs.dll
+C:\projects\backend\CarFipe.Jobs\obj\Debug\net9.0\CarFipe.Jobs.pdb
+C:\projects\backend\CarFipe.Jobs\obj\Debug\net9.0\ref\CarFipe.Jobs.dll

@@ -1,0 +1,17 @@
+C:\projects\backend\CarFipe.Infrastructure\bin\Debug\net9.0\CarFipe.Infrastructure.deps.json
+C:\projects\backend\CarFipe.Infrastructure\bin\Debug\net9.0\CarFipe.Infrastructure.runtimeconfig.json
+C:\projects\backend\CarFipe.Infrastructure\bin\Debug\net9.0\CarFipe.Infrastructure.dll
+C:\projects\backend\CarFipe.Infrastructure\bin\Debug\net9.0\CarFipe.Infrastructure.pdb
+C:\projects\backend\CarFipe.Infrastructure\bin\Debug\net9.0\CarFipe.Domain.dll
+C:\projects\backend\CarFipe.Infrastructure\bin\Debug\net9.0\CarFipe.Domain.pdb
+C:\projects\backend\CarFipe.Infrastructure\obj\Debug\net9.0\CarFipe.Infrastructure.csproj.AssemblyReference.cache
+C:\projects\backend\CarFipe.Infrastructure\obj\Debug\net9.0\CarFipe.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\backend\CarFipe.Infrastructure\obj\Debug\net9.0\CarFipe.Infrastructure.AssemblyInfoInputs.cache
+C:\projects\backend\CarFipe.Infrastructure\obj\Debug\net9.0\CarFipe.Infrastructure.AssemblyInfo.cs
+C:\projects\backend\CarFipe.Infrastructure\obj\Debug\net9.0\CarFipe.Infrastructure.csproj.CoreCompileInputs.cache
+C:\projects\backend\CarFipe.Infrastructure\obj\Debug\net9.0\CarFipe..C1C9E5DA.Up2Date
+C:\projects\backend\CarFipe.Infrastructure\obj\Debug\net9.0\CarFipe.Infrastructure.dll
+C:\projects\backend\CarFipe.Infrastructure\obj\Debug\net9.0\refint\CarFipe.Infrastructure.dll
+C:\projects\backend\CarFipe.Infrastructure\obj\Debug\net9.0\CarFipe.Infrastructure.pdb
+C:\projects\backend\CarFipe.Infrastructure\obj\Debug\net9.0\CarFipe.Infrastructure.genruntimeconfig.cache
+C:\projects\backend\CarFipe.Infrastructure\obj\Debug\net9.0\ref\CarFipe.Infrastructure.dll

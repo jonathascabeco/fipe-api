@@ -1,0 +1,11 @@
+C:\projects\backend\CarFipe.Domain\bin\Debug\net9.0\CarFipe.Domain.deps.json
+C:\projects\backend\CarFipe.Domain\bin\Debug\net9.0\CarFipe.Domain.dll
+C:\projects\backend\CarFipe.Domain\bin\Debug\net9.0\CarFipe.Domain.pdb
+C:\projects\backend\CarFipe.Domain\obj\Debug\net9.0\CarFipe.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\backend\CarFipe.Domain\obj\Debug\net9.0\CarFipe.Domain.AssemblyInfoInputs.cache
+C:\projects\backend\CarFipe.Domain\obj\Debug\net9.0\CarFipe.Domain.AssemblyInfo.cs
+C:\projects\backend\CarFipe.Domain\obj\Debug\net9.0\CarFipe.Domain.csproj.CoreCompileInputs.cache
+C:\projects\backend\CarFipe.Domain\obj\Debug\net9.0\CarFipe.Domain.dll
+C:\projects\backend\CarFipe.Domain\obj\Debug\net9.0\refint\CarFipe.Domain.dll
+C:\projects\backend\CarFipe.Domain\obj\Debug\net9.0\CarFipe.Domain.pdb
+C:\projects\backend\CarFipe.Domain\obj\Debug\net9.0\ref\CarFipe.Domain.dll

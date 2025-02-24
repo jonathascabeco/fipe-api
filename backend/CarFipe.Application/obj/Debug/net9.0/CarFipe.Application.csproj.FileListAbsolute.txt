@@ -1,0 +1,15 @@
+C:\projects\backend\CarFipe.Application\bin\Debug\net9.0\CarFipe.Application.deps.json
+C:\projects\backend\CarFipe.Application\bin\Debug\net9.0\CarFipe.Application.dll
+C:\projects\backend\CarFipe.Application\bin\Debug\net9.0\CarFipe.Application.pdb
+C:\projects\backend\CarFipe.Application\bin\Debug\net9.0\CarFipe.Domain.dll
+C:\projects\backend\CarFipe.Application\bin\Debug\net9.0\CarFipe.Domain.pdb
+C:\projects\backend\CarFipe.Application\obj\Debug\net9.0\CarFipe.Application.csproj.AssemblyReference.cache
+C:\projects\backend\CarFipe.Application\obj\Debug\net9.0\CarFipe.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\backend\CarFipe.Application\obj\Debug\net9.0\CarFipe.Application.AssemblyInfoInputs.cache
+C:\projects\backend\CarFipe.Application\obj\Debug\net9.0\CarFipe.Application.AssemblyInfo.cs
+C:\projects\backend\CarFipe.Application\obj\Debug\net9.0\CarFipe.Application.csproj.CoreCompileInputs.cache
+C:\projects\backend\CarFipe.Application\obj\Debug\net9.0\CarFipe..BDF14AF8.Up2Date
+C:\projects\backend\CarFipe.Application\obj\Debug\net9.0\CarFipe.Application.dll
+C:\projects\backend\CarFipe.Application\obj\Debug\net9.0\refint\CarFipe.Application.dll
+C:\projects\backend\CarFipe.Application\obj\Debug\net9.0\CarFipe.Application.pdb
+C:\projects\backend\CarFipe.Application\obj\Debug\net9.0\ref\CarFipe.Application.dll

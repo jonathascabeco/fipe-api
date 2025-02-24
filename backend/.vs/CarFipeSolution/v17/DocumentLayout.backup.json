@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\projects\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1971DCC-C95D-40F0-B4D2-7B35E9FEFFA8}|CarFipe.Application\\CarFipe.Application.csproj|c:\\projects\\backend\\carfipe.application\\services\\fipeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1971DCC-C95D-40F0-B4D2-7B35E9FEFFA8}|CarFipe.Application\\CarFipe.Application.csproj|solutionrelative:carfipe.application\\services\\fipeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE1D196D-F052-4252-A2A6-817BBC163C12}|CarFipe.Jobs\\CarFipe.Jobs.csproj|c:\\projects\\backend\\carfipe.jobs\\carfipejob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE1D196D-F052-4252-A2A6-817BBC163C12}|CarFipe.Jobs\\CarFipe.Jobs.csproj|solutionrelative:carfipe.jobs\\carfipejob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{221599C9-B24F-4D82-9E59-3C0EB3D2091F}|CarFipe.WorkerService\\CarFipe.WorkerService.csproj|c:\\projects\\backend\\carfipe.workerservice\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{221599C9-B24F-4D82-9E59-3C0EB3D2091F}|CarFipe.WorkerService\\CarFipe.WorkerService.csproj|solutionrelative:carfipe.workerservice\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{221599C9-B24F-4D82-9E59-3C0EB3D2091F}|CarFipe.WorkerService\\CarFipe.WorkerService.csproj|c:\\projects\\backend\\carfipe.workerservice\\carfipe.workerservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{221599C9-B24F-4D82-9E59-3C0EB3D2091F}|CarFipe.WorkerService\\CarFipe.WorkerService.csproj|solutionrelative:carfipe.workerservice\\carfipe.workerservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BC7024D-549F-4BDB-A3D5-F1BB9673C958}|CarFipe.Domain\\CarFipe.Domain.csproj|c:\\projects\\backend\\carfipe.domain\\interfaces\\icarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BC7024D-549F-4BDB-A3D5-F1BB9673C958}|CarFipe.Domain\\CarFipe.Domain.csproj|solutionrelative:carfipe.domain\\interfaces\\icarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3E7C8AC-B54F-4DB1-A1AC-DBD8C96D2915}|CarFipe.Infrastructure\\CarFipe.Infrastructure.csproj|c:\\projects\\backend\\carfipe.infrastructure\\repositories\\carrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3E7C8AC-B54F-4DB1-A1AC-DBD8C96D2915}|CarFipe.Infrastructure\\CarFipe.Infrastructure.csproj|solutionrelative:carfipe.infrastructure\\repositories\\carrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2BE8024-DD6A-4F6D-B247-1FF4846FAB03}|CarFipe.WebAPI\\CarFipe.WebAPI.csproj|c:\\projects\\backend\\carfipe.webapi\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2BE8024-DD6A-4F6D-B247-1FF4846FAB03}|CarFipe.WebAPI\\CarFipe.WebAPI.csproj|solutionrelative:carfipe.webapi\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CarFipeJob.cs",
+              "DocumentMoniker": "C:\\projects\\backend\\CarFipe.Jobs\\CarFipeJob.cs",
+              "RelativeDocumentMoniker": "CarFipe.Jobs\\CarFipeJob.cs",
+              "ToolTip": "C:\\projects\\backend\\CarFipe.Jobs\\CarFipeJob.cs",
+              "RelativeToolTip": "CarFipe.Jobs\\CarFipeJob.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T00:04:17.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CarFipe.WorkerService",
+              "DocumentMoniker": "C:\\projects\\backend\\CarFipe.WorkerService\\CarFipe.WorkerService.csproj",
+              "RelativeDocumentMoniker": "CarFipe.WorkerService\\CarFipe.WorkerService.csproj",
+              "ToolTip": "C:\\projects\\backend\\CarFipe.WorkerService\\CarFipe.WorkerService.csproj",
+              "RelativeToolTip": "CarFipe.WorkerService\\CarFipe.WorkerService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-23T23:58:04.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CarController.cs",
+              "DocumentMoniker": "C:\\projects\\backend\\CarFipe.WebAPI\\Controllers\\CarController.cs",
+              "RelativeDocumentMoniker": "CarFipe.WebAPI\\Controllers\\CarController.cs",
+              "ToolTip": "C:\\projects\\backend\\CarFipe.WebAPI\\Controllers\\CarController.cs",
+              "RelativeToolTip": "CarFipe.WebAPI\\Controllers\\CarController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T23:49:49.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CarRepository.cs",
+              "DocumentMoniker": "C:\\projects\\backend\\CarFipe.Infrastructure\\Repositories\\CarRepository.cs",
+              "RelativeDocumentMoniker": "CarFipe.Infrastructure\\Repositories\\CarRepository.cs",
+              "ToolTip": "C:\\projects\\backend\\CarFipe.Infrastructure\\Repositories\\CarRepository.cs",
+              "RelativeToolTip": "CarFipe.Infrastructure\\Repositories\\CarRepository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T23:49:39.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICarRepository.cs",
+              "DocumentMoniker": "C:\\projects\\backend\\CarFipe.Domain\\Interfaces\\ICarRepository.cs",
+              "RelativeDocumentMoniker": "CarFipe.Domain\\Interfaces\\ICarRepository.cs",
+              "ToolTip": "C:\\projects\\backend\\CarFipe.Domain\\Interfaces\\ICarRepository.cs",
+              "RelativeToolTip": "CarFipe.Domain\\Interfaces\\ICarRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T23:49:19.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "C:\\projects\\backend\\CarFipe.WorkerService\\Worker.cs",
+              "RelativeDocumentMoniker": "CarFipe.WorkerService\\Worker.cs",
+              "ToolTip": "C:\\projects\\backend\\CarFipe.WorkerService\\Worker.cs",
+              "RelativeToolTip": "CarFipe.WorkerService\\Worker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T22:36:51.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FipeService.cs",
+              "DocumentMoniker": "C:\\projects\\backend\\CarFipe.Application\\Services\\FipeService.cs",
+              "RelativeDocumentMoniker": "CarFipe.Application\\Services\\FipeService.cs",
+              "ToolTip": "C:\\projects\\backend\\CarFipe.Application\\Services\\FipeService.cs",
+              "RelativeToolTip": "CarFipe.Application\\Services\\FipeService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAiwBUAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T22:37:20.403Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
